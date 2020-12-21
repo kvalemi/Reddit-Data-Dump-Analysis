@@ -16,4 +16,4 @@ Please note that the data in this repo are just test data, and the actual data d
 
 to answer question 1: `spark-submit reddit_averages.py reddit-3`
 
-to answer question 2: `spark-submit reddit_averages.py reddit-3`
+to answer question 2: `spark-submit reddit_relative.py reddit-3`
